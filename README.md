@@ -1,1 +1,2 @@
-# paint-github-f35af
+# Decentagram
+An instagram clone using Etherium blockchain and smart contracts
