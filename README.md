@@ -77,4 +77,4 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ---
 
-Made with ❤️ by Sherwin
+Made with ❤️ by Sherwin and Hashberry Team
